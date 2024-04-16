@@ -14,7 +14,8 @@ Some code was added just to show how "I can do", e.g. [CustomTestWatcher.class](
 
 ## How to run
 
-To run tests you don't need to download anything, Selenide downloads chromedriver itself.
+To run tests you don't need to download anything addidtional excep of JDK21 and maven, Selenide downloads chromedriver itself.
+`mvn clean test` should run tests.
 
 
 ## Environment
