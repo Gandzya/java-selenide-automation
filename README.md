@@ -3,6 +3,7 @@ Some code was added just to show how "I can do", e.g. [CustomTestWatcher.class](
 
 ## Dependencies
 
+- OpenJDK21
 - [Junit5](https://junit.org/junit5/)  - to run tests 
 - [Selenide](https://selenide.org/) - as wrapper for Selenium 
 - [Logback](https://logback.qos.ch/) - for logging
